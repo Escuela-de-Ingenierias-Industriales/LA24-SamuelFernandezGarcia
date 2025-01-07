@@ -1,0 +1,65 @@
+Sensores5_VL53L0X_VL53L1X_I2C_wrapper.o: \
+ C:/Users/Usuario/Desktop/prueba2/temp2/Sensores5_VL53L0X_VL53L1X_I2C_wrapper.cpp \
+ C:/Users/Usuario/Desktop/prueba2/temp2/PruebaSensores_ert_rtw/rtwtypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/WString.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Print.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Printable.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ C:/Users/Usuario/Desktop/prueba2/temp2/twi.h \
+ C:/Users/Usuario/Desktop/prueba2/temp2/twi.c \
+ C:/Users/Usuario/Desktop/prueba2/temp2/twi.h \
+ C:/Users/Usuario/Desktop/prueba2/temp2/Wire.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h \
+ C:/Users/Usuario/Desktop/prueba2/temp2/Wire.cpp \
+ C:/Users/Usuario/Desktop/prueba2/temp2/Wire.h \
+ C:/Users/Usuario/Desktop/prueba2/temp2/VL53L0X.h \
+ C:/Users/Usuario/Desktop/prueba2/temp2/VL53L0X.cpp
+
+C:/Users/Usuario/Desktop/prueba2/temp2/PruebaSensores_ert_rtw/rtwtypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/WString.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Print.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Printable.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/twi.h:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/twi.c:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/twi.h:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/Wire.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/Wire.cpp:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/Wire.h:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/VL53L0X.h:
+
+C:/Users/Usuario/Desktop/prueba2/temp2/VL53L0X.cpp:
